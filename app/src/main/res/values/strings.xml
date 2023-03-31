@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HYBE_F</string>
+
+    //activity_main.xml//
+    <string name="main_start_text">WE\nBELIEVE IN\nMUSIC</string>
+    <string name="main_center_text">하이브를 담아냈습니다.</string>
+    <string name="main_bottom_text">H Y B E</string>
+    <string name="main_welcome_text">Welcome, to </string>
+
+    //artist//
+    <string name="comment">하이브 아티스트에게 하고 싶은 말을 적어주세요!</string>
+    <string name="all">이미지를 클릭하면\n해당 아티스트의 영상으로 이동합니다.</string>
+    <string name="bts">BTS</string>
+    <string name="txt">TOMORROW\nX\nTOGETHER</string>
+    <string name="svt">SEVEN\nTEEN</string>
+    <string name="enhypen">EN\nHYPEN</string>
+    <string name="baekho">BAEK\nHO</string>
+    <string name="minhyun">MIN\nHYUN</string>
+    <string name="fromis">FROMIS 9</string>
+    <string name="lessrafim">LE\nSSERAFIM</string>
+    <string name="newjeans">NEW\nJEANS</string>
+    //firebase//
+    <string name="firebase_web_client_id">300523303837-5im59jvsrld8c7tlm926nt7naoei4d4t.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

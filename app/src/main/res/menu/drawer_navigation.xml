@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bts"
+            android:title="BTS" />
+        <item
+            android:id="@+id/txt"
+            android:title="TXT" />
+        <item
+            android:id="@+id/svt"
+            android:title="세븐틴" />
+        <item
+            android:id="@+id/enhypen"
+            android:title="엔하이픈" />
+        <item
+            android:id="@+id/baekho"
+            android:title="백호" />
+        <item
+            android:id="@+id/minhyun"
+            android:title="황민현" />
+        <item
+            android:id="@+id/fromis"
+            android:title="프로미스나인" />
+        <item
+            android:id="@+id/lessrafim"
+            android:title="르세라핌" />
+        <item
+            android:id="@+id/newjeans"
+            android:title="뉴진스" />
+
+        <item
+            android:id="@+id/del"
+            android:title="탈퇴하기" />
+    </group>
+
+</menu>

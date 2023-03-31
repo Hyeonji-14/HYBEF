@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/gray"
+    android:orientation="horizontal">
+
+    <TextView
+        style="@style/header_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginStart="10dp"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/white_b" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:background="#00ff0000"
+        android:fontFamily="@font/nirmala"
+        android:gravity="bottom"
+        android:text="Logout"
+        android:textColor="@color/white_b"
+        android:textSize="15sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/menuBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:background="#00ff0000"
+            android:fontFamily="@font/nirmala"
+            android:text="Artist"
+            android:textColor="#F4FE57"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</LinearLayout>
